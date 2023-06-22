@@ -7,7 +7,7 @@
 BikeShare Project
 
 ### Description
-Stats on BikeShare Project
+Data Stats on BikeShare Project
 
 ### Files used
 CSV data files
